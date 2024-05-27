@@ -1,4 +1,5 @@
 Who is Danish?
+
 MACHINE LEARNING ENGINEER | DATA SCIENTIST | SOFTWARE ENGINEER
 specialize in harnessing the power of data to create transformative solutions. With a background in software engineering,
 I bring a unique blend of theoretical knowledge and hands-on expertise to every project. 
